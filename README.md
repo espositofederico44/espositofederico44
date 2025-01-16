@@ -6,7 +6,9 @@ All the code I write is under the *MIT license*, so feel free to use it as you p
 - Bash
 - Bootstrap
 - Go
+- Java
 - Node
+- MongoDB
 - PHP
 - PostgreSQL
 - Python
